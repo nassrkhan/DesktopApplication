@@ -10,4 +10,4 @@ This lightweight desktop application simplifies the process of handling large an
 - **One-Click Operation**: Perform data processing tasks with a single click.
 - **Executable File**: Includes a compiled executable file for easy distribution and use.
 
-- Ensure you have [Python](https://www.python.org/downloads/) installed.
+- Don't forget to watch the [Video](https://youtu.be/RS9UG-qfWMg).
